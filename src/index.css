@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  min-height: 100vh;
+  /* border: 3px solid red; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url("https://static.vecteezy.com/system/resources/previews/004/607/575/original/geometric-seamless-pattern-white-background-minimalist-concept-free-vector.jpg");
+  background-size: cover;
+}
+
+#root {
+  /* border: 1px solid black; */
+}
